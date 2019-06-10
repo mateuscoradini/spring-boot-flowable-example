@@ -1,0 +1,7 @@
+br/com/coradini/springflowableexample/services/ArticleWorkflowService.class
+br/com/coradini/springflowableexample/SpringFlowableExampleApplication.class
+br/com/coradini/springflowableexample/services/PublishArticleService.class
+br/com/coradini/springflowableexample/domain/Article.class
+br/com/coradini/springflowableexample/ArticleWorkFlowController.class
+br/com/coradini/springflowableexample/services/SendMailService.class
+br/com/coradini/springflowableexample/domain/Approval.class
