@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: br.com.coradini.springflowableexample.ArticleWorkflowIntegrationTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.232 s - in br.com.coradini.springflowableexample.ArticleWorkflowIntegrationTest
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.09 s <<< FAILURE! - in br.com.coradini.springflowableexample.ArticleWorkflowIntegrationTest
+articleApprovalTest  Time elapsed: 0.089 s  <<< ERROR!
+org.flowable.common.engine.api.FlowableException: Query return 2 results instead of max 1
+	at br.com.coradini.springflowableexample.ArticleWorkflowIntegrationTest.articleApprovalTest(ArticleWorkflowIntegrationTest.java:37)
+

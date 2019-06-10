@@ -1,7 +1,7 @@
-/home/mateus.coradini/projects/dafiti/spring-flowable-example/src/main/java/br/com/coradini/springflowableexample/services/PublishArticleService.java
-/home/mateus.coradini/projects/dafiti/spring-flowable-example/src/main/java/br/com/coradini/springflowableexample/services/SendMailService.java
-/home/mateus.coradini/projects/dafiti/spring-flowable-example/src/main/java/br/com/coradini/springflowableexample/services/ArticleWorkflowService.java
-/home/mateus.coradini/projects/dafiti/spring-flowable-example/src/main/java/br/com/coradini/springflowableexample/domain/Approval.java
-/home/mateus.coradini/projects/dafiti/spring-flowable-example/src/main/java/br/com/coradini/springflowableexample/SpringFlowableExampleApplication.java
-/home/mateus.coradini/projects/dafiti/spring-flowable-example/src/main/java/br/com/coradini/springflowableexample/domain/Article.java
-/home/mateus.coradini/projects/dafiti/spring-flowable-example/src/main/java/br/com/coradini/springflowableexample/ArticleWorkFlowController.java
+/home/mateus.coradini/projects/dafiti/spring-boot-flowable-example/src/main/java/br/com/coradini/springflowableexample/controllers/ArticleWorkFlowController.java
+/home/mateus.coradini/projects/dafiti/spring-boot-flowable-example/src/main/java/br/com/coradini/springflowableexample/services/PublishArticleService.java
+/home/mateus.coradini/projects/dafiti/spring-boot-flowable-example/src/main/java/br/com/coradini/springflowableexample/services/ArticleWorkflowService.java
+/home/mateus.coradini/projects/dafiti/spring-boot-flowable-example/src/main/java/br/com/coradini/springflowableexample/domain/Article.java
+/home/mateus.coradini/projects/dafiti/spring-boot-flowable-example/src/main/java/br/com/coradini/springflowableexample/domain/Approval.java
+/home/mateus.coradini/projects/dafiti/spring-boot-flowable-example/src/main/java/br/com/coradini/springflowableexample/SpringFlowableExampleApplication.java
+/home/mateus.coradini/projects/dafiti/spring-boot-flowable-example/src/main/java/br/com/coradini/springflowableexample/services/SendMailService.java
